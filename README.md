@@ -1,3 +1,3 @@
 # PSUSphere
 
-#Submitted by: Christian Clavite
+Submitted by: Christian Clavite
